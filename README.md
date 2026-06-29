@@ -20,6 +20,11 @@ Core data structures implemented from scratch in Python — no built-in shortcut
 - display() — print all nodes
 - delete() — remove a node
 
+### Binary Search Tree (binary_search_tree.py)
+- insert() — add a value O(log n)
+- search() — find a value O(log n)
+- inorder() — print all values in sorted order
+
 ## Why This Matters
 Understanding data structures from scratch is the foundation of
 real software engineering and technical interviews.
